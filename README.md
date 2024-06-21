@@ -1,7 +1,7 @@
 # Workshop: Análisis y Remediación de Código con Snyk
 
 <p align="center">
-    <img width="200" src="[https://ekis.consulting/assets/images/xs-logowhite.png](https://ekiscyber.com/img/logo.svg)" alt="EKIS Cybersecurity"><br>
+    <img width="200" src="https://ekiscyber.com/img/logo.svg" alt="EKIS Cybersecurity"><br>
 	Gracias a EKIS Cybersecurity
 </p>
 
